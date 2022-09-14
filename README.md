@@ -1,0 +1,2 @@
+# DATA_Synchronization
+Clock Domain Crossing (CDC) in digital domain is defined as the process of passing a signal or vector (multi bit signal) from one clock domain to another clock domain which introduce many issues as metastability, data incoherence and data loss. There are many techniques to synchronize asynchronous signals to avoid CDC issues as: -  Synchronized MUX-Select Synchronization Scheme: Used to synchronize multiple bits.
